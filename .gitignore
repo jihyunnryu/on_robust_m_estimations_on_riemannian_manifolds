@@ -22,5 +22,8 @@ Thumbs.db
 1.relative_efficiency/sphere/
 1.relative_efficiency/euclidean/
 1.relative_efficiency/hyperbolic/
-
+2.cutoff_selection/regression_cutoff/
 3.smeary_circle/result_data_base/
+
+*_old
+*_old/
